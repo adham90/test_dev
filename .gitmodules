@@ -1,0 +1,3 @@
+[submodule "go_flappy"]
+	path = go_flappy
+	url = git@github.com:adham90/go_flappy.git
